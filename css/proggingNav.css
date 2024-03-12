@@ -47,6 +47,12 @@ li {
     height: auto; 
 }
 
+.bi {
+    font-size: 24px; 
+    margin-left: 97%;
+    margin-top: 10px; 
+}
+
 /* 지역 선택 header */
 .subNav_container{
     position: absolute;
